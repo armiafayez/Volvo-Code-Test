@@ -74,7 +74,7 @@ The project relies on several key technologies and libraries, including:
 
 - .NET 7
 - Entity Framework
-- Inversion of Control (IoC) container (e.g., Autofac, Unity)
+- Inversion of Control (IoC) container (e.g., Unity)
 - JSON.NET (Newtonsoft.Json) for JSON handling
 - SQLite database provider
 - Entity Framework Data Seeding
