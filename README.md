@@ -14,8 +14,6 @@ Welcome to the Congestion Tax Calculator project! This application is designed t
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
