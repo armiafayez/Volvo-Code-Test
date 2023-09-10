@@ -14,6 +14,7 @@ Welcome to the Congestion Tax Calculator project! This application is designed t
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Dependencies](#dependencies)
+- [Testing](#testing)
 
 ## Introduction
 
@@ -80,4 +81,19 @@ The project relies on several key technologies and libraries, including:
 - Entity Framework Data Seeding
 - Repository Design Pattern
 
-Please refer to the project's `*.csproj` files for a complete list of dependencies.
+## Testing
+
+### Exempt Vehicle Types
+
+When testing the tax calculation functionality of this application, it's important to consider the exempt vehicle types. The application handles exempt vehicle types as per the below. Here's how the tax should be applied:
+
+- Exempt Vehicle Type 1: No tax should be applied.
+- Exempt Vehicle Type 2: No tax should be applied.
+- Exempt Vehicle Type 3: No tax should be applied.
+- Exempt Vehicle Type 4: No tax should be applied.
+- Exempt Vehicle Type 5: No tax should be applied.
+- Exempt Vehicle Type 6: No tax should be applied.
+
+### Tax for Non-Exempt Vehicle Types
+
+For any vehicle type number greater than 6, tax should be applied as per the specified rules.
