@@ -41,7 +41,7 @@ Before you begin, make sure you have the following prerequisites:
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone https://github.com/armiawassef/volvo-code-test.git
+   git clone https://github.com/armiafayez/Volvo-Code-Test.git
    ```
    
 2. Navigate to the project directory
