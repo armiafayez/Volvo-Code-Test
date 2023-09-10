@@ -97,3 +97,7 @@ When testing the tax calculation functionality of this application, it's importa
 ### Tax for Non-Exempt Vehicle Types
 
 For any vehicle type number greater than 6, tax should be applied as per the specified rules.
+
+### Currently Supported CityId
+
+As of the current version, the application supports CityId 1, which corresponds to Gothenburg. When testing the application, ensure that you use CityId 1 for Gothenburg to retrieve accurate results.
