@@ -1,6 +1,6 @@
 # Congestion Tax Calculator C# Project
 
-Welcome to the Congestion Tax Calculator project! This application is designed to calculate congestion taxes using a web API built with C# and SQLite, following the principles of Domain-Driven Design (DDD) and utilizing Inversion of Control (IoC) for managing dependencies. The project also utilizes Entity Framework Code First for data storage.
+Welcome to the Congestion Tax Calculator project! This application is designed to calculate congestion taxes using a web API built with C# and SQLite database, following the principles of Domain-Driven Design (DDD) and utilizing Inversion of Control (IoC) for managing dependencies. The project also utilizes Entity Framework Code First for data storage.
 
 ## Table of Contents
 
